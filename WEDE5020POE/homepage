@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Absolute Devine Beauty</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Absolute Devine Beauty</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Us</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="enquiry.html">Enquiry</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="home">
+            <h2>Your Beauty Awaits</h2>
+            <p>Discover our range of beauty cosmetics and skincare products designed to enhance your natural beauty.</p>
+            <a href="booking.html" class="button">Book Now</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2023 Absolute Devine Beauty. All rights reserved.</p>
+    </footer>
+</body>
+</html>
